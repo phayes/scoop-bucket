@@ -1,12 +1,12 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "description": "Command-line interface for Veloci Redactor: redact secrets and PII from text and structured files",
     "homepage": "https://github.com/phayes/velociredactor",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/phayes/velociredactor/releases/download/v0.3.1/veloci-cli-x86_64-pc-windows-msvc.zip",
-            "hash": "9190dc5fe0ef29ee64906f77a161b1e8910f9519c16655442c9cea7298f2aa6b",
+            "url": "https://github.com/phayes/velociredactor/releases/download/v0.3.2/veloci-cli-x86_64-pc-windows-msvc.zip",
+            "hash": "c46a7bdcba40cd2d5ab4e2e961571422ed7000add72bda514092733a1f47c96f",
             "bin": "veloci.exe"
         }
     }
